@@ -1,1 +1,1 @@
-{"users":[],"tasks":[],"lastSync":"2025-07-04T13:46:23.154Z"}
+{"users":[{"id":"1","password":"1"},{"id":"2","password":"2"},{"id":"3","password":"3"}],"tasks":[{"id":"1751637136958","type":"delivery","publisher":"1","pickup":"1","address":"1","contact":"1","reward":"1","status":"pending","acceptor":null,"publishTime":"2025-07-04T13:52:16.958Z"}],"lastSync":"2025-07-04T13:52:18.531Z"}
