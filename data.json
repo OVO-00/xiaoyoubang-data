@@ -1,1 +1,1 @@
-{"users":[{"id":"1","password":"1"},{"id":"2","password":"2"},{"id":"5","password":"5"},{"id":"3","password":"3"}],"tasks":[],"lastSync":"2025-08-06T12:44:23.666Z"}
+{"users":[{"id":"2","password":"2"},{"id":"5","password":"5"},{"id":"3","password":"3"},{"id":"1","password":"1"}],"tasks":[{"id":"1755216540771","type":"delivery","publisher":"2","pickup":"2","address":"","contact":"","reward":"","status":"pending","acceptor":null,"publishTime":"2025-08-15T00:09:00.771Z"}],"lastSync":"2025-08-15T00:09:01.245Z"}
